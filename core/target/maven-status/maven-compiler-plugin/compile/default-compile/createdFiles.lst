@@ -1,0 +1,6 @@
+testGroup/core/package-info.class
+testGroup/core/models/HelloWorldModel.class
+testGroup/core/servlets/SimpleServlet.class
+testGroup/core/schedulers/SimpleScheduledTask.class
+testGroup/core/filters/LoggingFilter.class
+testGroup/core/listeners/SimpleResourceListener.class

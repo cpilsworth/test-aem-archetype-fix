@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/testApp">
+        <exclude pattern="/apps/testApp/install" />
+    </filter>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/testApp" />
+    <filter root="/etc/packages/adobe/consulting/acs-aem-commons-content-2.5.0.zip" />
+</workspaceFilter>
